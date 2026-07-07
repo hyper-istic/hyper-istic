@@ -68,9 +68,7 @@ Coming soon to this profile:
 
 
 🩻 RadiantClariX — deep learning tool for chest X-ray abnormality & fracture detection
-
 🎬 LipSync & Voice Cloning — accessible text-to-speech reading assistant
-
 🤟 UrduGest — real-time Urdu Sign Language recognition (bachelor's thesis)
 
 
@@ -79,10 +77,10 @@ Coming soon to this profile:
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=hyper-istic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyper-istic&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/demo/?user=hyper-istic&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-istic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hyper-istic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hyper-istic&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
