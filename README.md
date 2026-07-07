@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning+Graduate;Computer+Vision+%26+NLP+Enthusiast;Building+accessible+AI+for+social+good;Chasing+a+fully-funded+Master's+program" alt="Typing SVG" />
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmad-hassan-raja/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/hyperistic/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ahraja.2k18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/hyper-istic"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
@@ -15,13 +15,10 @@
 👨‍💻 About Me
 
 
-🎓 Fresh Artificial Intelligence graduate (NUML, Islamabad) — CGPA 3.72
+🎓 Artificial Intelligence graduate (NUML, Islamabad) — CGPA 3.72
 🔭 Currently working as a Senior System Engineer, managing production Linux infrastructure and high-availability systems
 🧠 Research interests: Computer Vision, NLP, Deep Learning, and AI for accessibility & social good
-🎯 Actively applying for a fully funded Master's program to pursue AI research
 🤟 Built a real-time Urdu Sign Language Recognition system as my bachelor's thesis
-⚡ Fun fact: I once turned a Discord server admin gig into a 45% workload-reduction automation project
-
 
 
 🛠️ Tech Stack
@@ -71,7 +68,9 @@ Coming soon to this profile:
 
 
 🩻 RadiantClariX — deep learning tool for chest X-ray abnormality & fracture detection
+
 🎬 LipSync & Voice Cloning — accessible text-to-speech reading assistant
+
 🤟 UrduGest — real-time Urdu Sign Language recognition (bachelor's thesis)
 
 
@@ -79,7 +78,7 @@ Coming soon to this profile:
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyper-istic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=hyper-istic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyper-istic&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 <p align="center">
