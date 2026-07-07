@@ -91,7 +91,7 @@
 
 ---
 
-### 📜 Certifications
+### 📜 Courses/Certifications
 
 `Practical Python for AI · KAIST` &nbsp;•&nbsp; `AI for Everyone · DeepLearning.AI` &nbsp;•&nbsp; `Data Science & Analytics · HP Life` &nbsp;•&nbsp; `FortiSASE Core Administration` &nbsp;•&nbsp; `Leadership · Santander Open Academy`
 
