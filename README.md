@@ -45,24 +45,10 @@
 
 ### 🚀 Featured Projects
 
-> More projects are on the way — this profile grows as fast as my thesis deadlines let it 😅
+> This section updates itself — a GitHub Action pulls in my newest public repos automatically, no manual editing needed.
 
-<p align="center">
-  <a href="https://github.com/hyper-istic/License-Plate-Recognition">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=License-Plate-Recognition&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/hyper-istic/Tweet-Sentiment-Analysis">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=Tweet-Sentiment-Analysis&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/hyper-istic/UA-Speech-Dataset-Classification">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=UA-Speech-Dataset-Classification&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/hyper-istic/Data-Mining-on-Sales-Dataset">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=Data-Mining-on-Sales-Dataset&theme=tokyonight" />
-  </a>
-</p>
+<!--START_SECTION:projects-->
+<!--END_SECTION:projects-->
 
 **Coming soon to this profile:**
 - 🩻 **RadiantClariX** — deep learning tool for chest X-ray abnormality & fracture detection
@@ -84,10 +70,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyper-istic&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hyper-istic&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
