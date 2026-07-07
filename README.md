@@ -48,6 +48,27 @@
 > This section updates itself — a GitHub Action pulls in my newest public repos automatically, no manual editing needed.
 
 <!--START_SECTION:projects-->
+<p align="center">
+  <a href="https://github.com/hyper-istic/License-Plate-Recognition">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=License-Plate-Recognition&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hyper-istic/UA-Speech-Dataset-Classification">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=UA-Speech-Dataset-Classification&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hyper-istic/Data-Mining-on-Sales-Dataset">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=Data-Mining-on-Sales-Dataset&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/hyper-istic/Tweet-Sentiment-Analysis">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=Tweet-Sentiment-Analysis&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hyper-istic/DEP-Internship-Tasks">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=DEP-Internship-Tasks&theme=tokyonight" />
+  </a>
+</p>
 <!--END_SECTION:projects-->
 
 **Coming soon to this profile:**
