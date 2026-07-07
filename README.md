@@ -27,6 +27,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Artificial Intelligence graduate** (NUML, Islamabad) — CGPA 3.72
+- 📚 Pursuing a **Master's in Artificial Intelligence** (Air University, Islamabad)
 - 🔭 Currently working as a **Senior System Engineer**, managing production Linux infrastructure and high-availability systems
 - 🧠 Research interests: **Computer Vision**, **NLP**, **Deep Learning**, and **AI for accessibility & social good**
 - 🤟 Built a real-time **Urdu Sign Language Recognition** system as my bachelor's thesis
