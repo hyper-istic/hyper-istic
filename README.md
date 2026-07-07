@@ -72,11 +72,6 @@
 </p>
 <!--END_SECTION:projects-->
 
-**Coming soon to this profile:**
-- 🩻 **RadiantClariX** — deep learning tool for chest X-ray abnormality & fracture detection
-- 🎬 **LipSync & Voice Cloning** — accessible text-to-speech reading assistant
-- 🤟 **UrduGest** — real-time Urdu Sign Language recognition (bachelor's thesis)
-
 ---
 
 ### 📊 GitHub Stats
