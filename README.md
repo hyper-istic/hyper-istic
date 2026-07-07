@@ -38,7 +38,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,pytorch,sklearn,opencv,streamlit,anaconda,linux,redhat,discord&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,tensorflow,pytorch,sklearn,opencv,anaconda,linux,redhat,discord&theme=dark" />
 </p>
 
 ---
