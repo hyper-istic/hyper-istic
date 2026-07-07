@@ -1,38 +1,63 @@
 name: Update Featured Projects
- 
+
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
-  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
- 
+    - cron: '0 */6 * * *'   # Every 6 hours
+  workflow_dispatch:
+
 permissions:
   contents: write
- 
+
 concurrency:
   group: update-projects-readme
   cancel-in-progress: false
- 
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
- 
-      - name: Set up Node
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
- 
+          node-version: 24
+
       - name: Fetch latest repos and update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-projects.js
- 
-      - name: Commit and push if changed
+
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: auto-update featured projects"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: auto-update featured projects"
+
+          for i in 1 2 3 4 5; do
+            echo "Attempt $i..."
+
+            git pull --rebase origin main && \
+            git push origin main && {
+              echo "Push successful!"
+              exit 0
+            }
+
+            echo "Push failed. Retrying in 5 seconds..."
+            sleep 5
+          done
+
+          echo "Failed to push after 5 attempts."
+          exit 1
