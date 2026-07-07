@@ -50,18 +50,18 @@ More projects are on the way — this profile grows as fast as my thesis deadlin
 
 <p align="center">
   <a href="https://github.com/hyper-istic/License-Plate-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyper-istic&repo=License-Plate-Recognition&theme=tokyonight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=License-Plate-Recognition&theme=tokyonight" />
   </a>
   <a href="https://github.com/hyper-istic/Tweet-Sentiment-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyper-istic&repo=Tweet-Sentiment-Analysis&theme=tokyonight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=Tweet-Sentiment-Analysis&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/hyper-istic/UA-Speech-Dataset-Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyper-istic&repo=UA-Speech-Dataset-Classification&theme=tokyonight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=UA-Speech-Dataset-Classification&theme=tokyonight" />
   </a>
   <a href="https://github.com/hyper-istic/Data-Mining-on-Sales-Dataset">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyper-istic&repo=Data-Mining-on-Sales-Dataset&theme=tokyonight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hyper-istic&repo=Data-Mining-on-Sales-Dataset&theme=tokyonight" />
   </a>
 </p>
 Coming soon to this profile:
